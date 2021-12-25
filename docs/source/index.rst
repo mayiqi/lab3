@@ -22,7 +22,7 @@
 
 **项目GitHub地址**: `lab3`_.
 
-.. _lab3: 
+.. _lab3: https://github.com/mayiqi/lab3
 
 **项目Read the Doc地址**: `Read the Doc`_.
 
