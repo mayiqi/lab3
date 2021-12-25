@@ -26,7 +26,7 @@
 
 **项目Read the Doc地址**: `Read the Doc`_.
 
-.. _Read The Doc: https://readthedocs.org/projects/lanlab3/
+.. _Read The Doc: https://lanlab3.readthedocs.io/zh/latest/
 
 
 
