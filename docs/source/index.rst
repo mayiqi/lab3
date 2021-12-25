@@ -163,7 +163,7 @@ Results
 
 **/test/**
 
-.. image:: 
+.. image:: test.png
 
 
 References
